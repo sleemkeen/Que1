@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/Que1/Que1/bin/Debug/net9.0/Que1
+/Users/mac/RiderProjects/Que1/Que1/bin/Debug/net9.0/Que1.deps.json
+/Users/mac/RiderProjects/Que1/Que1/bin/Debug/net9.0/Que1.runtimeconfig.json
+/Users/mac/RiderProjects/Que1/Que1/bin/Debug/net9.0/Que1.dll
+/Users/mac/RiderProjects/Que1/Que1/bin/Debug/net9.0/Que1.pdb
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.AssemblyInfo.cs
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.dll
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/refint/Que1.dll
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.pdb
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/Que1.genruntimeconfig.cache
+/Users/mac/RiderProjects/Que1/Que1/obj/Debug/net9.0/ref/Que1.dll

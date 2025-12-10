@@ -1,0 +1,18 @@
+[
+  {
+    "FirstName": "Jonny",
+    "LastName": "Mathew",
+    "Company": "Acmee",
+    "PhoneNumber": "909999999",
+    "Email": "john@gmail.com",
+    "Dob": "1993-10-07T00:00:00"
+  },
+  {
+    "FirstName": "Haruna",
+    "LastName": "John",
+    "Company": "Acme",
+    "PhoneNumber": "909888888",
+    "Email": "akhmadharuna@gmail.com",
+    "Dob": "1992-09-12T00:00:00"
+  }
+]
