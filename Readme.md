@@ -1,6 +1,6 @@
 # Contact Book (C# Console Application)
 
-A simple, user-friendly console-based **Contact Management System** built in C#. This application allows you to store, view, search, update, and delete contacts, with automatic data persistence using a JSON file.
+A simple, user-friendly console-based **Contact Management System** built in C# for Que 1 CA1. This application allows you to store, view, search, update, and delete contacts, with automatic data persistence using a JSON file.
 
 ---
 
